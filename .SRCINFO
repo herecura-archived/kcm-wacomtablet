@@ -1,6 +1,6 @@
 pkgbase = kcm-wacomtablet
 	pkgdesc = KDE GUI for the Wacom Linux Drivers
-	pkgver = 1.99.8
+	pkgver = 1.99.9
 	pkgrel = 1
 	url = http://kde-apps.org/content/show.php/wacom+tablet?content=114856
 	arch = x86_64
@@ -12,8 +12,8 @@ pkgbase = kcm-wacomtablet
 	depends = xf86-input-wacom
 	conflicts = kcm_tablet-svn kde-wacomtablet-svn
 	replaces = kcm_tablet
-	source = http://kde-apps.org/CONTENT/content-files/114856-wacomtablet-1.99.8.tar.gz
-	sha256sums = 390055e427ccee647d2a4f58f97e117f46f9298bb28bf0eff6f3bd699c3f79b3
+	source = http://kde-apps.org/CONTENT/content-files/114856-wacomtablet-1.99.9.tar.gz
+	sha256sums = 805f249e17a34f9d4c2e51bd583821726542361c20001f0ba470f0adcb5f3d2a
 
 pkgname = kcm-wacomtablet
 
