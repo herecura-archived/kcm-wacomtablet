@@ -2,7 +2,7 @@ pkgbase = kcm-wacomtablet
 	pkgdesc = KDE GUI for the Wacom Linux Drivers
 	pkgver = 2.0
 	pkgrel = 1
-	url = http://kde-apps.org/content/show.php/wacom+tablet?content=114856
+	url = http://kde-apps.org/content/show.php?content=114856
 	arch = x86_64
 	arch = i686
 	license = GPLv2
